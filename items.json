@@ -1,0 +1,32 @@
+{"Items":[
+  {
+    "course":"development",
+    "amount":800
+  },
+  {
+    "course":"training",
+    "amount":900
+  },
+  {
+    "course":"testing",
+    "amount":1000
+  },
+  {
+    "course":"deployment",
+    "amount":700
+  },
+  {
+    "course":"designing",
+    "amount":1200
+  },
+  {
+    "course":"maintaining",
+    "amount":800
+  },
+  {
+    "course":"Analising",
+    "amount":1500
+  }
+
+]
+}
